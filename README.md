@@ -9,3 +9,5 @@ New line 2
 Change in branch1
 
 New line 3
+
+New line 4
